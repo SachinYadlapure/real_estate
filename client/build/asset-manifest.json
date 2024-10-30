@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14877830.css",
+    "main.js": "/static/js/main.7afc8b12.js",
+    "static/js/787.8b72c004.chunk.js": "/static/js/787.8b72c004.chunk.js",
+    "static/media/sai.jpg": "/static/media/sai.ea0402d50e988ad3449c.jpg",
+    "static/media/Home1jpg.jpg": "/static/media/Home1jpg.a1faae440d57c2d7f74b.jpg",
+    "static/media/image7.jpg": "/static/media/image7.88300fbf47fba8a3c618.jpg",
+    "static/media/image8.jpg": "/static/media/image8.4a745987aeebe037df16.jpg",
+    "static/media/signlogo1.jpg": "/static/media/signlogo1.4a745987aeebe037df16.jpg",
+    "static/media/logo.png": "/static/media/logo.66964d8acd046185032d.png",
+    "static/media/Abhi.jpg": "/static/media/Abhi.b0efb2ab119cebff71a3.jpg",
+    "static/media/image2.jpg": "/static/media/image2.add61aab410b18ce74da.jpg",
+    "static/media/home2.jpg": "/static/media/home2.cd8781bd955cff4cc507.jpg",
+    "static/media/loginbg.jpg": "/static/media/loginbg.0a299f74ce89cfc5877f.jpg",
+    "static/media/jk1.jpg": "/static/media/jk1.ec3c239369a2a8f256b4.jpg",
+    "static/media/image1.jpg": "/static/media/image1.1571a15d038905173e36.jpg",
+    "static/media/home4.jpg": "/static/media/home4.18140da8be03df0fe031.jpg",
+    "index.html": "/index.html",
+    "main.14877830.css.map": "/static/css/main.14877830.css.map",
+    "main.7afc8b12.js.map": "/static/js/main.7afc8b12.js.map",
+    "787.8b72c004.chunk.js.map": "/static/js/787.8b72c004.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14877830.css",
+    "static/js/main.7afc8b12.js"
+  ]
+}
